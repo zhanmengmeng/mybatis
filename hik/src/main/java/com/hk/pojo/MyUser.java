@@ -36,5 +36,7 @@ public void setBirth(Date birth) {
 public String toString() {
 	return "MyUser [uid=" + uid + ", uname=" + uname + ", uage=" + uage + ", birth=" + birth + "]";
 }
-
+public String todo() {
+	return "";
+}
 }
